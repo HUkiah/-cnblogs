@@ -1,0 +1,4 @@
+﻿  mergeList.c
+d:\____workspace____\c\mergelist\mergelist\mergelist.c(551): warning C4013: “system”未定义；假设外部返回 int
+  MergeList.vcxproj -> D:\____WorkSpace____\C\MergeList\Debug\MergeList.exe
+  MergeList.vcxproj -> D:\____WorkSpace____\C\MergeList\Debug\MergeList.pdb (Full PDB)
